@@ -1,3 +1,6 @@
+#Files from this project have been borrowed from https://github.com/tonmcg/County_Level_Election_Results_12-16
+
+
 # County-Level Presidential General Election Results for 2012 - 2016
 Presidential election results for 2012 and 2016 from The Guardian and townhall.com. 
 
